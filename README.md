@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### ⌨ This Week I Spent My Time On
-![time](https://github-readme-stats.vercel.app/api/wakatime?username=AndyL-n)
-
 ### 📊 GitHub Stats
 ![profile](https://github-readme-stats.vercel.app/api?username=AndyL-n&count_private=true&show_icons=true)
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyL-n&layout=compact)
